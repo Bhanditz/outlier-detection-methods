@@ -1,0 +1,14 @@
+name: en740
+channels:
+    - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  
